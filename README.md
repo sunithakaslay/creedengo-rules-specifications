@@ -114,7 +114,7 @@ You can quickly have a look of creedengo plugins with docker. Plase have a look 
 The main way to setup creedengo plugins is to download them from your SonarQube Marketplace (available in Administration section).
 But if you want, you can also download them from GitHub releases.
 
-We had split our plugins repository `creedengo` to one repository for each plugin on December 2023.
+We had split our plugins repository `creedengo` into multiple repositories, one for each plugin on December 2023.
 Thus, plugin versions are available on 2 repositories depending on the version you want :
 
 - Java plugin :
@@ -173,7 +173,7 @@ We are listening to you to make the project progress collectively, and maybe wit
 
 WE NEED YOU !
 
-Here the [Starter pack](https://github.com/green-code-initiative/creedengo-common/blob/main/doc/starter-pack.md)
+Get Started with [Starter pack](https://github.com/green-code-initiative/creedengo-common/blob/main/doc/starter-pack.md)
 
 🤓 Main contributors
 --------------------
